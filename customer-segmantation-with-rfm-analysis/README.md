@@ -12,4 +12,5 @@
 * **customer_value_total_ever_online :** Total fee paid by the customer for online purchases
 * **interested_in_categories_12  :** List of categories the customer has shopped in the last 12 months
 
-![rfm.png](attachment:43de1309-e987-442c-b2ca-927e2f7acbaf.png)
+![rfm](https://user-images.githubusercontent.com/78654212/197993937-554d94c5-ceb4-4a48-a47c-322732405c78.png)
+
