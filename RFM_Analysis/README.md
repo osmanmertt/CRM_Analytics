@@ -1,4 +1,6 @@
-**In this study, customer segmentation was made using RFM analysis. The behaviors of the customers in the dataset are defined and segmented according to these behaviors.Information about the columns is given below.**
+# Business Problem and Dataset  
+
+In this study, customer segmentation was performed using RFM analysis and Unsupervised learning (K-means, Hierarchical Clustering). Information about the columns is given below.
 * **master_id :** Unique customer id
 * **order_channel :** Which channel of the shopping platform is used (Android, ios, Desktop, Mobile)
 * **last_order_channel :** The channel where the most recent purchase was made
@@ -11,6 +13,3 @@
 * **customer_value_total_ever_offline :** Total fee paid by the customer for offline purchases
 * **customer_value_total_ever_online :** Total fee paid by the customer for online purchases
 * **interested_in_categories_12  :** List of categories the customer has shopped in the last 12 months
-
-![rfm](https://user-images.githubusercontent.com/78654212/197993937-554d94c5-ceb4-4a48-a47c-322732405c78.png)
-
